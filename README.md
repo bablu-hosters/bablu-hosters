@@ -126,7 +126,7 @@ A website built for a student hostel in Mahabubnagar, offering separate, secured
 
 ### 🛕 Sri Varahi Shaniswara Swamy Temple
 A website for the Sri Varahi Shaniswara Swamy Temple in Mahabubnagar, featuring temple information, festival schedules, and pooja timings.
-**Live:** [srivarahitemple.netlify.app](https://srivarahitemple.netlify.app/) · **Stack:** HTML, CSS, JavaScript, Netlify
+**Live:** [srivarahitemple.netlify.app](https://srivarahitemplembnr.com/) · **Stack:** HTML, CSS, JavaScript, Netlify
 
 <!-- Add GitHub repository links for the above projects here, once available -->
 
